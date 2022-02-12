@@ -41,3 +41,14 @@ string reverseWord(string str){
     
   
 }
+
+//sorting method
+
+//#include<bits/stdc++.h>
+// using namespace std;
+// int main() {
+//   int a;
+//   string s = "priyanshu";
+//   reverse(s.begin(),s.end());
+//   return 0;
+// }
